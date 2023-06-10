@@ -35,9 +35,9 @@ Theponczek - ponpon
 polarbn - polar
 pauliusna - Paulius
 kenan12 - Kenan
-[od]jardim - J
+[od]Jardim - J
 ee3 - south
-ibtasim6781 - Ghutra
+iBtasim6781 - Ghutra
 barbecuedpossumyt - BBQ
 jason1984 - Orange
 tkgx - TKGX
@@ -45,5 +45,5 @@ glock19 - 9mm
 skirmantasltugamer - Skirma
 taran_j - Taran
 weitz1991 - Rustic
-vilix - Vilix
-eirikend -Eirkdan
+Vilix - Vilix
+eirikend - Eirkdan
